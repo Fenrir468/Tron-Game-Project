@@ -90,8 +90,6 @@ root                    (project root folder)
 
 ## Authors
 ---
-* Rich Abbott: rich.abbott3@gmail.com
-* Ethan Charles: ethan.charles02@gmail.com
-* Avery Crowson: crowson.avery@gmail.com
-* Hunter Dunlap: hwd14@rocketmail.com
-* Miguel Marin: mar19013@byui.edu
+* Avery Crowson
+* Jared Henrie
+* Shean Brunner

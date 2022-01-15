@@ -10,7 +10,7 @@ to crash into the wall! First one to crash loses!
 # Development Environment
 
 ## Getting Started
----
+
 Make sure you have Python 3.8.0 or newer, arcade 2.5.7 or newer, pillow 8.2.0 or newer installed 
 and running on your machine. You can install arcade by opening a terminal 
 and running the following command.
@@ -32,7 +32,7 @@ and open the project folder. Select the main module inside the lightbike folder 
 click the "run" icon.
 
 ## Project Structure
----
+
 The project files and folders are organized as follows:
 ```
 root                    (project root folder)
@@ -84,7 +84,6 @@ root                    (project root folder)
     +-- test_point.py
   +-- __init__.py       (python package file)
   +-- __main__.py       (entry point for program)
-+-- LICENSE             (license file)
 +-- README.md           (general info)
 ```
 

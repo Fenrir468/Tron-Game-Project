@@ -1,7 +1,13 @@
+# Overview
+
 # Lightbike
 The light bicycle game: have fun trying to defeat your opponent by forcing 
 them to run into the trails created by your bike. Alternatively, force them 
 to crash into the wall! First one to crash loses!
+
+[Software Demo Video](http://youtube.link.goes.here)
+
+# Development Environment
 
 ## Getting Started
 ---
@@ -87,6 +93,12 @@ root                    (project root folder)
 * Python 3.8.0 or later
 * arcade 2.5.7 or later
 * pillow 8.2.0 or later
+
+# Useful Websites
+
+{Make a list of websites that you found helpful in this project}
+* [Web Site Name](http://url.link.goes.here)
+* [Web Site Name](http://url.link.goes.here)
 
 ## Authors
 ---

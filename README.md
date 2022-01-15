@@ -1,6 +1,6 @@
 # Overview
 
-# Lightbike
+## Lightbike
 The light bicycle game: have fun trying to defeat your opponent by forcing 
 them to run into the trails created by your bike. Alternatively, force them 
 to crash into the wall! First one to crash loses!
@@ -89,19 +89,17 @@ root                    (project root folder)
 ```
 
 ## Required Technologies
----
+
 * Python 3.8.0 or later
 * arcade 2.5.7 or later
 * pillow 8.2.0 or later
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Python Arcade Library](https://api.arcade.academy/en/latest/)
+* [Real Python](https://realpython.com/arcade-python-game-framework/)
 
 ## Authors
----
 * Avery Crowson
 * Jared Henrie
 * Shean Brunner

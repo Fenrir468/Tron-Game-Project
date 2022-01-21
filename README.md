@@ -5,7 +5,7 @@ The light bicycle game: have fun trying to defeat your opponent by forcing
 them to run into the trails created by your bike. Alternatively, force them 
 to crash into the wall! First one to crash loses!
 
-[Software Demo Video](https://youtu.be/zVu_HvzEHqI)
+[Software Demo Video](https://youtu.be/MT6iDnaZr4g)
 
 # Development Environment
 
